@@ -1,5 +1,3 @@
-# sales-revenue-insights
-Sales and revenue analysis using SQL, Excel, and Power BI
 # Sales & Revenue Insights Dashboard
 
 **Owner:** Akash Niranjappa  
