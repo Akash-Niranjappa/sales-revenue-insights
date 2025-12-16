@@ -1,0 +1,6 @@
+order_id,region,product,revenue,order_date
+1001,South,Laptop,55000,2024-01-12
+1002,North,Mobile,22000,2024-01-14
+1003,East,Tablet,18000,2024-02-02
+1004,West,Laptop,60000,2024-02-05
+1005,South,Mobile,24000,2024-02-10
